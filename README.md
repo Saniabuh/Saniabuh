@@ -4,7 +4,7 @@ I am a Cybersecurity Analyst with a proven track record of protecting organizati
 
 -## 🌍 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/sani-abuh-ibrahim-796199ab/-sani-abuh-ibrahim ) 💼
+- [LinkedIn](https://www.linkedin.com/in/sani-abuh-ibrahim-796199ab/-sani-abuh-ibrahim ) 💼
 - [Gmail](mailto:saniabuh@gmail.com) ✉️
 - [Twitter](https://twitter.com/saniabuh) 🐦
 
