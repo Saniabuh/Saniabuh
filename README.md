@@ -6,5 +6,12 @@ I am a Cybersecurity Analyst with a proven track record of protecting organizati
 
 - [LinkedIn](https://www.linkedin.com/in/sani-abuh-ibrahim-796199ab/-sani-abuh-ibrahim ) [Gmail](mailto:saniabuh@gmail.com) ✉️ [Twitter](https://twitter.com/saniabuh) 🐦
 
+## 🛠** Skills and Competencies**
+- Network Security | Vulnerability Analysis | Penetration Testing | Incident response | Incident Detection | GRC | Leadership | Communication | Presentation
 
+## 💻 Technological Stack
+Kali | Wireshark | OWASP | Burpsuite | Nessus | Thread Modeling | VirtualBox | Microsoft Azure | Active Directory | Python | SIEM | HTML | EDR | Linux | Ubuntu | Datto RMM | RDP | ISO 27001
+
+  ## 💻 My Projects
+- [Network Design](https://github.com/Saniabuh/Network-Design)
 
