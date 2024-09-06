@@ -13,5 +13,6 @@ I am a Cybersecurity Analyst with a proven track record of protecting organizati
 Kali | Wireshark | OWASP | Burpsuite | Nessus | Thread Modeling | VirtualBox | Microsoft Azure | Active Directory | Python | SIEM | HTML | EDR | Linux | Ubuntu | Datto RMM | RDP | ISO 27001
 
   ## 💻 My Projects
-- [Network Design](https://github.com/Saniabuh/Network-Design)
+- Network: Design and Implementation of Simple Network for ABC Technology
+   - [Network Design](https://github.com/Saniabuh/Network-Design)
 
