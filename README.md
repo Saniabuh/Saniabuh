@@ -15,6 +15,7 @@ Kali | Wireshark | OWASP | Burpsuite | Nessus | Thread Modeling | VirtualBox | M
   ## 💻 My Projects
 - Project 1: Design and Implementation of ABC Technology Network System
    - [Network Design](https://github.com/Saniabuh/Network-Design)
-- Project 2:Campus Network
+
+- Project 2:Campus Network Design for Benue State Univeristy
    -[Campus-Network](https://github.com/Saniabuh/Simple-Campus-Network)
 
