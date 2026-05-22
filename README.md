@@ -13,8 +13,9 @@ I am a cybersecurity professional with an MSc in Cybersecurity (Distinction) fro
 Kali | Wireshark | OWASP | Burpsuite | Nessus | Thread Modeling | VirtualBox | Microsoft Azure | Active Directory | Python | SIEM | HTML | EDR | Linux | Ubuntu | Datto RMM | RDP | ISO 27001
 
   ## 💻 My Projects
-- Project 1: Design and Implementation of ABC Technology Network System
-   - [Network Design](https://github.com/Saniabuh/Network-Design)
+- Project 1: Design and Implementation of a Segmented Enterprise Network Using VLAN and DHCP
+   - [Design and Implementation of a Segmented Enterprise Network Using VLAN and DHCP](https://github.com/Saniabuh/Design-and-Implementation-of-a-Segmented-Enterprise-Network-Using-VLAN-and-DHCP)
+
 
 - Project 2: Campus Network for Benue State Univeristy
     - [Campus Network](https://github.com/Saniabuh/Simple-Campus-Network)
