@@ -18,5 +18,5 @@ Kali | Wireshark | OWASP | Burpsuite | Nessus | Thread Modeling | VirtualBox | M
 
 
 - Project 2: Campus Network for Benue State Univeristy
-    - [Campus Network](https://github.com/Saniabuh/Simple-Campus-Network)
+    - [Design and Evaluation of a Reliable and Scalable Campus Network System](https://github.com/Saniabuh/Design-and-Evaluation-of-a-Reliable-and-Scalable-Campus-Network-System.git)
 
